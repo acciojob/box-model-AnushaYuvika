@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.main {
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	border: 2px solid black;
+	border-radius: 40px; 
+	max-width: 80%;
+	margin: auto;
+	padding: 30px;
+	gap: 10px;
+	background-color: lightgray;
+}
+
+.box1 {
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	border-radius: 50%;	
+}
+
+.box2 {
+	height: 100px;
+	width: 100px;
+	background-color: yellow;
+	border-radius: 50%;	
+}
+
+.box3 {
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	border-radius: 50%;	
+}
+
+
+
